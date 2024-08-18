@@ -98,7 +98,7 @@ select{
     border: 0;
     border-radius: 35px;
     appearance: none;
-    background-image: url(down-arrow.png);
+    background-image: url(images/down-arrow.png);
     background-repeat: no-repeat;
     background-size: 19px;
     background-position-x: calc(100% - 20px);
